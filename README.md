@@ -59,12 +59,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/RahulMahawar310/DSA/tree/master/0015-3sum) |
 | [0344-reverse-string](https://github.com/RahulMahawar310/DSA/tree/master/0344-reverse-string) |
 | [0633-sum-of-square-numbers](https://github.com/RahulMahawar310/DSA/tree/master/0633-sum-of-square-numbers) |
+| [1616-split-two-strings-to-make-palindrome](https://github.com/RahulMahawar310/DSA/tree/master/1616-split-two-strings-to-make-palindrome) |
 ## String
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/RahulMahawar310/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0179-largest-number](https://github.com/RahulMahawar310/DSA/tree/master/0179-largest-number) |
 | [0344-reverse-string](https://github.com/RahulMahawar310/DSA/tree/master/0344-reverse-string) |
+| [1616-split-two-strings-to-make-palindrome](https://github.com/RahulMahawar310/DSA/tree/master/1616-split-two-strings-to-make-palindrome) |
 ## Math
 |  |
 | ------- |

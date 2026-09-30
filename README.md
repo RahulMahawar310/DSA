@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/RahulMahawar310/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/RahulMahawar310/DSA/tree/master/0015-3sum) |
+| [0039-combination-sum](https://github.com/RahulMahawar310/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/RahulMahawar310/DSA/tree/master/0040-combination-sum-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/RahulMahawar310/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/RahulMahawar310/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/RahulMahawar310/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0039-combination-sum](https://github.com/RahulMahawar310/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/RahulMahawar310/DSA/tree/master/0040-combination-sum-ii) |
 ## Two Pointers
 |  |

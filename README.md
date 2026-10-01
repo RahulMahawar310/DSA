@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0072-edit-distance](https://github.com/RahulMahawar310/DSA/tree/master/0072-edit-distance) |
 | [0152-maximum-product-subarray](https://github.com/RahulMahawar310/DSA/tree/master/0152-maximum-product-subarray) |
 ## Backtracking
 |  |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/RahulMahawar310/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0072-edit-distance](https://github.com/RahulMahawar310/DSA/tree/master/0072-edit-distance) |
 | [0179-largest-number](https://github.com/RahulMahawar310/DSA/tree/master/0179-largest-number) |
 | [0344-reverse-string](https://github.com/RahulMahawar310/DSA/tree/master/0344-reverse-string) |
 | [1616-split-two-strings-to-make-palindrome](https://github.com/RahulMahawar310/DSA/tree/master/1616-split-two-strings-to-make-palindrome) |

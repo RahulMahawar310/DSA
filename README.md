@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/RahulMahawar310/DSA/tree/master/0072-edit-distance) |
 | [0131-palindrome-partitioning](https://github.com/RahulMahawar310/DSA/tree/master/0131-palindrome-partitioning) |
 | [0179-largest-number](https://github.com/RahulMahawar310/DSA/tree/master/0179-largest-number) |
+| [0290-word-pattern](https://github.com/RahulMahawar310/DSA/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/RahulMahawar310/DSA/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/RahulMahawar310/DSA/tree/master/0567-permutation-in-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/RahulMahawar310/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/RahulMahawar310/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/RahulMahawar310/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0290-word-pattern](https://github.com/RahulMahawar310/DSA/tree/master/0290-word-pattern) |
 | [0567-permutation-in-string](https://github.com/RahulMahawar310/DSA/tree/master/0567-permutation-in-string) |
 ## Greedy
 |  |

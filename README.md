@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/RahulMahawar310/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/RahulMahawar310/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/RahulMahawar310/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0400-nth-digit](https://github.com/RahulMahawar310/DSA/tree/master/0400-nth-digit) |
 | [0633-sum-of-square-numbers](https://github.com/RahulMahawar310/DSA/tree/master/0633-sum-of-square-numbers) |
 ## Binary Tree
 |  |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/RahulMahawar310/DSA/tree/master/0060-permutation-sequence) |
+| [0400-nth-digit](https://github.com/RahulMahawar310/DSA/tree/master/0400-nth-digit) |
 | [0633-sum-of-square-numbers](https://github.com/RahulMahawar310/DSA/tree/master/0633-sum-of-square-numbers) |
 ## Recursion
 |  |

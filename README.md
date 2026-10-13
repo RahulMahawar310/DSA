@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/RahulMahawar310/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/RahulMahawar310/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/RahulMahawar310/DSA/tree/master/0040-combination-sum-ii) |
+| [0077-combinations](https://github.com/RahulMahawar310/DSA/tree/master/0077-combinations) |
 | [0131-palindrome-partitioning](https://github.com/RahulMahawar310/DSA/tree/master/0131-palindrome-partitioning) |
 ## Two Pointers
 |  |

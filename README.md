@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/RahulMahawar310/DSA/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/RahulMahawar310/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/RahulMahawar310/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0621-task-scheduler](https://github.com/RahulMahawar310/DSA/tree/master/0621-task-scheduler) |
 | [0643-maximum-average-subarray-i](https://github.com/RahulMahawar310/DSA/tree/master/0643-maximum-average-subarray-i) |
 ## Divide and Conquer
 |  |
@@ -55,11 +56,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/RahulMahawar310/DSA/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/RahulMahawar310/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/RahulMahawar310/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0621-task-scheduler](https://github.com/RahulMahawar310/DSA/tree/master/0621-task-scheduler) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/RahulMahawar310/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/RahulMahawar310/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0621-task-scheduler](https://github.com/RahulMahawar310/DSA/tree/master/0621-task-scheduler) |
 ## Quickselect
 |  |
 | ------- |
@@ -122,10 +125,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/RahulMahawar310/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0290-word-pattern](https://github.com/RahulMahawar310/DSA/tree/master/0290-word-pattern) |
 | [0567-permutation-in-string](https://github.com/RahulMahawar310/DSA/tree/master/0567-permutation-in-string) |
+| [0621-task-scheduler](https://github.com/RahulMahawar310/DSA/tree/master/0621-task-scheduler) |
 ## Greedy
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/RahulMahawar310/DSA/tree/master/0179-largest-number) |
+| [0621-task-scheduler](https://github.com/RahulMahawar310/DSA/tree/master/0621-task-scheduler) |
 ## Linked List
 |  |
 | ------- |
@@ -166,4 +171,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/RahulMahawar310/DSA/tree/master/0070-climbing-stairs) |
+## Counting
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/RahulMahawar310/DSA/tree/master/0621-task-scheduler) |
 <!---LeetCode Topics End-->

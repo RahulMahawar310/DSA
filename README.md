@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/RahulMahawar310/DSA/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/RahulMahawar310/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/RahulMahawar310/DSA/tree/master/0040-combination-sum-ii) |
+| [0045-jump-game-ii](https://github.com/RahulMahawar310/DSA/tree/master/0045-jump-game-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/RahulMahawar310/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/RahulMahawar310/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/RahulMahawar310/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/RahulMahawar310/DSA/tree/master/0045-jump-game-ii) |
 | [0070-climbing-stairs](https://github.com/RahulMahawar310/DSA/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/RahulMahawar310/DSA/tree/master/0072-edit-distance) |
 | [0131-palindrome-partitioning](https://github.com/RahulMahawar310/DSA/tree/master/0131-palindrome-partitioning) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/RahulMahawar310/DSA/tree/master/0045-jump-game-ii) |
 | [0179-largest-number](https://github.com/RahulMahawar310/DSA/tree/master/0179-largest-number) |
 | [0316-remove-duplicate-letters](https://github.com/RahulMahawar310/DSA/tree/master/0316-remove-duplicate-letters) |
 | [0621-task-scheduler](https://github.com/RahulMahawar310/DSA/tree/master/0621-task-scheduler) |

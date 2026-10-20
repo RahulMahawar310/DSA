@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/RahulMahawar310/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/RahulMahawar310/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0152-maximum-product-subarray](https://github.com/RahulMahawar310/DSA/tree/master/0152-maximum-product-subarray) |
+| [0162-find-peak-element](https://github.com/RahulMahawar310/DSA/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/RahulMahawar310/DSA/tree/master/0164-maximum-gap) |
 | [0179-largest-number](https://github.com/RahulMahawar310/DSA/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/RahulMahawar310/DSA/tree/master/0215-kth-largest-element-in-an-array) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/RahulMahawar310/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/RahulMahawar310/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/RahulMahawar310/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0162-find-peak-element](https://github.com/RahulMahawar310/DSA/tree/master/0162-find-peak-element) |
 | [0222-count-complete-tree-nodes](https://github.com/RahulMahawar310/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/RahulMahawar310/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0400-nth-digit](https://github.com/RahulMahawar310/DSA/tree/master/0400-nth-digit) |

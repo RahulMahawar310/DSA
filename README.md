@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/RahulMahawar310/DSA/tree/master/0290-word-pattern) |
 | [0316-remove-duplicate-letters](https://github.com/RahulMahawar310/DSA/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/RahulMahawar310/DSA/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/RahulMahawar310/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0567-permutation-in-string](https://github.com/RahulMahawar310/DSA/tree/master/0567-permutation-in-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/RahulMahawar310/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1616-split-two-strings-to-make-palindrome](https://github.com/RahulMahawar310/DSA/tree/master/1616-split-two-strings-to-make-palindrome) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/RahulMahawar310/DSA/tree/master/0036-valid-sudoku) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/RahulMahawar310/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0290-word-pattern](https://github.com/RahulMahawar310/DSA/tree/master/0290-word-pattern) |
+| [0387-first-unique-character-in-a-string](https://github.com/RahulMahawar310/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0567-permutation-in-string](https://github.com/RahulMahawar310/DSA/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/RahulMahawar310/DSA/tree/master/0621-task-scheduler) |
 ## Greedy
@@ -182,9 +184,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/RahulMahawar310/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0621-task-scheduler](https://github.com/RahulMahawar310/DSA/tree/master/0621-task-scheduler) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/RahulMahawar310/DSA/tree/master/0316-remove-duplicate-letters) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/RahulMahawar310/DSA/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->

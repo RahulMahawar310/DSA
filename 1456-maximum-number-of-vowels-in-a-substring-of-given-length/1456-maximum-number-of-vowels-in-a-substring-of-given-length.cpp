@@ -15,8 +15,9 @@ public:
         int maxCount=count;
 
         for(int i=k;i<n;i++){
-            if(isVowels(s[i])) count++;
-            if(isVowels(s[i-k])) count--;
+            // if(isVowels(s[i])) count++;
+            // if(isVowels(s[i-k])) count--;
+            count = count + isVowels(s[i]) - isVowels(s[i-k]);
             maxCount= max(maxCount, count);
         }
         return maxCount;

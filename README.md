@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/RahulMahawar310/DSA/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/RahulMahawar310/DSA/tree/master/0164-maximum-gap) |
 | [0179-largest-number](https://github.com/RahulMahawar310/DSA/tree/master/0179-largest-number) |
+| [0209-minimum-size-subarray-sum](https://github.com/RahulMahawar310/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/RahulMahawar310/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0334-increasing-triplet-subsequence](https://github.com/RahulMahawar310/DSA/tree/master/0334-increasing-triplet-subsequence) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/RahulMahawar310/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/RahulMahawar310/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/RahulMahawar310/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0162-find-peak-element](https://github.com/RahulMahawar310/DSA/tree/master/0162-find-peak-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/RahulMahawar310/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/RahulMahawar310/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/RahulMahawar310/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0400-nth-digit](https://github.com/RahulMahawar310/DSA/tree/master/0400-nth-digit) |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/RahulMahawar310/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/RahulMahawar310/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/RahulMahawar310/DSA/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/RahulMahawar310/DSA/tree/master/0643-maximum-average-subarray-i) |
@@ -209,4 +212,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/RahulMahawar310/DSA/tree/master/0334-increasing-triplet-subsequence) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/RahulMahawar310/DSA/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->

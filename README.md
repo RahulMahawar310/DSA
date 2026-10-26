@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/RahulMahawar310/DSA/tree/master/0179-largest-number) |
 | [0209-minimum-size-subarray-sum](https://github.com/RahulMahawar310/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/RahulMahawar310/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0219-contains-duplicate-ii](https://github.com/RahulMahawar310/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/RahulMahawar310/DSA/tree/master/0334-increasing-triplet-subsequence) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/RahulMahawar310/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0621-task-scheduler](https://github.com/RahulMahawar310/DSA/tree/master/0621-task-scheduler) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/RahulMahawar310/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/RahulMahawar310/DSA/tree/master/0036-valid-sudoku) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/RahulMahawar310/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0219-contains-duplicate-ii](https://github.com/RahulMahawar310/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0290-word-pattern](https://github.com/RahulMahawar310/DSA/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/RahulMahawar310/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/RahulMahawar310/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/RahulMahawar310/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/RahulMahawar310/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0219-contains-duplicate-ii](https://github.com/RahulMahawar310/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/RahulMahawar310/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/RahulMahawar310/DSA/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/RahulMahawar310/DSA/tree/master/0643-maximum-average-subarray-i) |

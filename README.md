@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/RahulMahawar310/DSA/tree/master/0633-sum-of-square-numbers) |
 | [0876-middle-of-the-linked-list](https://github.com/RahulMahawar310/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [1616-split-two-strings-to-make-palindrome](https://github.com/RahulMahawar310/DSA/tree/master/1616-split-two-strings-to-make-palindrome) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/RahulMahawar310/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## String
 |  |
 | ------- |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/RahulMahawar310/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/RahulMahawar310/DSA/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/RahulMahawar310/DSA/tree/master/0876-middle-of-the-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/RahulMahawar310/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Sliding Window
 |  |
 | ------- |

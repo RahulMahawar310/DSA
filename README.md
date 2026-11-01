@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/RahulMahawar310/DSA/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/RahulMahawar310/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/RahulMahawar310/DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/RahulMahawar310/DSA/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/RahulMahawar310/DSA/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/RahulMahawar310/DSA/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/RahulMahawar310/DSA/tree/master/0567-permutation-in-string) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/RahulMahawar310/DSA/tree/master/0024-swap-nodes-in-pairs) |
 | [0060-permutation-sequence](https://github.com/RahulMahawar310/DSA/tree/master/0060-permutation-sequence) |
+| [0143-reorder-list](https://github.com/RahulMahawar310/DSA/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/RahulMahawar310/DSA/tree/master/0234-palindrome-linked-list) |
 ## Hash Table
 |  |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/RahulMahawar310/DSA/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/RahulMahawar310/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/RahulMahawar310/DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/RahulMahawar310/DSA/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/RahulMahawar310/DSA/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/RahulMahawar310/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/RahulMahawar310/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -214,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/RahulMahawar310/DSA/tree/master/0071-simplify-path) |
+| [0143-reorder-list](https://github.com/RahulMahawar310/DSA/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/RahulMahawar310/DSA/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/RahulMahawar310/DSA/tree/master/0316-remove-duplicate-letters) |
 ## Bucket Sort

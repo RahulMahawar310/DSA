@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/RahulMahawar310/DSA/tree/master/0621-task-scheduler) |
 | [0643-maximum-average-subarray-i](https://github.com/RahulMahawar310/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/RahulMahawar310/DSA/tree/master/0713-subarray-product-less-than-k) |
+| [0769-max-chunks-to-make-sorted](https://github.com/RahulMahawar310/DSA/tree/master/0769-max-chunks-to-make-sorted) |
 | [0930-binary-subarrays-with-sum](https://github.com/RahulMahawar310/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/RahulMahawar310/DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/RahulMahawar310/DSA/tree/master/1004-max-consecutive-ones-iii) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/RahulMahawar310/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/RahulMahawar310/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0621-task-scheduler](https://github.com/RahulMahawar310/DSA/tree/master/0621-task-scheduler) |
+| [0769-max-chunks-to-make-sorted](https://github.com/RahulMahawar310/DSA/tree/master/0769-max-chunks-to-make-sorted) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/RahulMahawar310/DSA/tree/master/0316-remove-duplicate-letters) |
 | [0334-increasing-triplet-subsequence](https://github.com/RahulMahawar310/DSA/tree/master/0334-increasing-triplet-subsequence) |
 | [0621-task-scheduler](https://github.com/RahulMahawar310/DSA/tree/master/0621-task-scheduler) |
+| [0769-max-chunks-to-make-sorted](https://github.com/RahulMahawar310/DSA/tree/master/0769-max-chunks-to-make-sorted) |
 ## Linked List
 |  |
 | ------- |
@@ -222,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/RahulMahawar310/DSA/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/RahulMahawar310/DSA/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/RahulMahawar310/DSA/tree/master/0316-remove-duplicate-letters) |
+| [0769-max-chunks-to-make-sorted](https://github.com/RahulMahawar310/DSA/tree/master/0769-max-chunks-to-make-sorted) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -258,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/RahulMahawar310/DSA/tree/master/0316-remove-duplicate-letters) |
+| [0769-max-chunks-to-make-sorted](https://github.com/RahulMahawar310/DSA/tree/master/0769-max-chunks-to-make-sorted) |
 ## Queue
 |  |
 | ------- |

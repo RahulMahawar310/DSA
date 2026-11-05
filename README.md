@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/RahulMahawar310/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0621-task-scheduler](https://github.com/RahulMahawar310/DSA/tree/master/0621-task-scheduler) |
 | [0643-maximum-average-subarray-i](https://github.com/RahulMahawar310/DSA/tree/master/0643-maximum-average-subarray-i) |
+| [0704-binary-search](https://github.com/RahulMahawar310/DSA/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/RahulMahawar310/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0769-max-chunks-to-make-sorted](https://github.com/RahulMahawar310/DSA/tree/master/0769-max-chunks-to-make-sorted) |
 | [0930-binary-subarrays-with-sum](https://github.com/RahulMahawar310/DSA/tree/master/0930-binary-subarrays-with-sum) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/RahulMahawar310/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0400-nth-digit](https://github.com/RahulMahawar310/DSA/tree/master/0400-nth-digit) |
 | [0633-sum-of-square-numbers](https://github.com/RahulMahawar310/DSA/tree/master/0633-sum-of-square-numbers) |
+| [0704-binary-search](https://github.com/RahulMahawar310/DSA/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/RahulMahawar310/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/RahulMahawar310/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1208-get-equal-substrings-within-budget](https://github.com/RahulMahawar310/DSA/tree/master/1208-get-equal-substrings-within-budget) |

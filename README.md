@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/RahulMahawar310/DSA/tree/master/0120-triangle) |
 | [0131-palindrome-partitioning](https://github.com/RahulMahawar310/DSA/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/RahulMahawar310/DSA/tree/master/0152-maximum-product-subarray) |
+| [0241-different-ways-to-add-parentheses](https://github.com/RahulMahawar310/DSA/tree/master/0241-different-ways-to-add-parentheses) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/RahulMahawar310/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Backtracking
 |  |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/RahulMahawar310/DSA/tree/master/0076-minimum-window-substring) |
 | [0131-palindrome-partitioning](https://github.com/RahulMahawar310/DSA/tree/master/0131-palindrome-partitioning) |
 | [0179-largest-number](https://github.com/RahulMahawar310/DSA/tree/master/0179-largest-number) |
+| [0241-different-ways-to-add-parentheses](https://github.com/RahulMahawar310/DSA/tree/master/0241-different-ways-to-add-parentheses) |
 | [0290-word-pattern](https://github.com/RahulMahawar310/DSA/tree/master/0290-word-pattern) |
 | [0316-remove-duplicate-letters](https://github.com/RahulMahawar310/DSA/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/RahulMahawar310/DSA/tree/master/0344-reverse-string) |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0060-permutation-sequence](https://github.com/RahulMahawar310/DSA/tree/master/0060-permutation-sequence) |
 | [0070-climbing-stairs](https://github.com/RahulMahawar310/DSA/tree/master/0070-climbing-stairs) |
+| [0241-different-ways-to-add-parentheses](https://github.com/RahulMahawar310/DSA/tree/master/0241-different-ways-to-add-parentheses) |
 | [0400-nth-digit](https://github.com/RahulMahawar310/DSA/tree/master/0400-nth-digit) |
 | [0633-sum-of-square-numbers](https://github.com/RahulMahawar310/DSA/tree/master/0633-sum-of-square-numbers) |
 ## Recursion
@@ -164,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/RahulMahawar310/DSA/tree/master/0060-permutation-sequence) |
 | [0143-reorder-list](https://github.com/RahulMahawar310/DSA/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/RahulMahawar310/DSA/tree/master/0234-palindrome-linked-list) |
+| [0241-different-ways-to-add-parentheses](https://github.com/RahulMahawar310/DSA/tree/master/0241-different-ways-to-add-parentheses) |
 ## Hash Table
 |  |
 | ------- |
@@ -263,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/RahulMahawar310/DSA/tree/master/0070-climbing-stairs) |
+| [0241-different-ways-to-add-parentheses](https://github.com/RahulMahawar310/DSA/tree/master/0241-different-ways-to-add-parentheses) |
 ## Counting
 |  |
 | ------- |
@@ -306,4 +311,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/RahulMahawar310/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/RahulMahawar310/DSA/tree/master/0142-linked-list-cycle-ii) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/RahulMahawar310/DSA/tree/master/0241-different-ways-to-add-parentheses) |
 <!---LeetCode Topics End-->

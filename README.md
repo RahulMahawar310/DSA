@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/RahulMahawar310/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0045-jump-game-ii](https://github.com/RahulMahawar310/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/RahulMahawar310/DSA/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/RahulMahawar310/DSA/tree/master/0070-climbing-stairs) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/RahulMahawar310/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/RahulMahawar310/DSA/tree/master/0015-3sum) |
 | [0086-partition-list](https://github.com/RahulMahawar310/DSA/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/RahulMahawar310/DSA/tree/master/0141-linked-list-cycle) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/RahulMahawar310/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/RahulMahawar310/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/RahulMahawar310/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0065-valid-number](https://github.com/RahulMahawar310/DSA/tree/master/0065-valid-number) |
 | [0071-simplify-path](https://github.com/RahulMahawar310/DSA/tree/master/0071-simplify-path) |
@@ -315,4 +318,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/RahulMahawar310/DSA/tree/master/0241-different-ways-to-add-parentheses) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/RahulMahawar310/DSA/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->

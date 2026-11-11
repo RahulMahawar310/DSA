@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/RahulMahawar310/DSA/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/RahulMahawar310/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/RahulMahawar310/DSA/tree/master/0055-jump-game) |
+| [0064-minimum-path-sum](https://github.com/RahulMahawar310/DSA/tree/master/0064-minimum-path-sum) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/RahulMahawar310/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/RahulMahawar310/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/RahulMahawar310/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/RahulMahawar310/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0045-jump-game-ii](https://github.com/RahulMahawar310/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/RahulMahawar310/DSA/tree/master/0055-jump-game) |
+| [0064-minimum-path-sum](https://github.com/RahulMahawar310/DSA/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/RahulMahawar310/DSA/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/RahulMahawar310/DSA/tree/master/0072-edit-distance) |
 | [0120-triangle](https://github.com/RahulMahawar310/DSA/tree/master/0120-triangle) |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/RahulMahawar310/DSA/tree/master/0036-valid-sudoku) |
+| [0064-minimum-path-sum](https://github.com/RahulMahawar310/DSA/tree/master/0064-minimum-path-sum) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/RahulMahawar310/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Memoization
 |  |

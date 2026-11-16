@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/RahulMahawar310/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/RahulMahawar310/DSA/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/RahulMahawar310/DSA/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/RahulMahawar310/DSA/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/RahulMahawar310/DSA/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/RahulMahawar310/DSA/tree/master/0064-minimum-path-sum) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/RahulMahawar310/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/RahulMahawar310/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/RahulMahawar310/DSA/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/RahulMahawar310/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/RahulMahawar310/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/RahulMahawar310/DSA/tree/master/0215-kth-largest-element-in-an-array) |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/RahulMahawar310/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0045-jump-game-ii](https://github.com/RahulMahawar310/DSA/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/RahulMahawar310/DSA/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/RahulMahawar310/DSA/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/RahulMahawar310/DSA/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/RahulMahawar310/DSA/tree/master/0070-climbing-stairs) |
